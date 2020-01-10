@@ -1,0 +1,220 @@
+{
+  "products": [
+    { 
+      "id": 0,
+      "title": "Brown eggs",
+      "category": "dairy",
+      "description": "Raw organic brown eggs in a basket",
+      "image": "https://static.toiimg.com/photo/68523233.cms",
+      "price": 28.1,
+      "isFavorite": false
+    },
+    {
+      "id": 1,
+      "title": "Sweet fresh stawberry",
+      "category": "fruit",
+      "description": "Sweet fresh stawberry on the wooden table",
+      "image": "https://c4.wallpaperflare.com/wallpaper/195/889/152/nature-food-wallpaper-preview.jpg",
+      "price": 29.45,
+      "isFavorite": false
+    },
+    {
+      "id": 2,
+      "title": "Asparagus",
+      "category": "vegetable",
+      "description": "Asparagus with ham on the wooden table",
+      "image": "https://www.jessicagavin.com/wp-content/uploads/2019/04/how-to-cook-asparagus-5-1200.jpg",
+      "price": 18.95,
+      "isFavorite": false
+    },
+    {
+      "id": 3,
+      "title": "Green smoothie",
+      "category": "dairy",
+      "description": "Glass of green smoothie with quail egg's yolk, served with cocktail tube, green apple and baby spinach leaves over tin surface.",
+      "image": "https://www.feastingathome.com/wp-content/uploads/2016/01/mexicali-green-smoothie-111.jpg",
+      "price": 17.68,
+      "isFavorite": false
+    },
+    {
+      "id": 4,
+      "title": "Raw legums",
+      "category": "vegetable",
+      "description": "Raw legums on the wooden table",
+      "image": "https://live.staticflickr.com/1909/45614806752_4620e51310_b.jpg",
+      "price": 17.11,
+      "isFavorite": false
+    },
+    {
+      "id": 5,
+      "title": "Baking cake",
+      "category": "dairy",
+      "description": "Baking cake in rural kitchen - dough  recipe ingredients (eggs, flour, sugar) on vintage wooden table from above.",
+      "image": "https://cdn.waxingkara.com/wp-content/uploads/2019/02/gingerbread-wide.jpg",
+      "price": 11.14,
+      "isFavorite": false
+    },
+    {
+      "id": 6,
+      "title": "Pesto with basil",
+      "category": "vegetable",
+      "description": "Italian traditional pesto with basil, chesse and oil",
+      "image": "https://cookieandkate.com/images/2017/06/best-basil-pesto-recipe.jpg",
+      "price": 18.19,
+      "isFavorite": false
+    },
+    {
+      "id": 7,
+      "title": "Hazelnut in black ceramic bowl",
+      "category": "vegetable",
+      "description": "Hazelnut in black ceramic bowl on old wooden background. forest wealth. rustic style. selective focus",
+      "image": "https://image.freepik.com/free-photo/mixed-nuts-white-ceramic-bowl-from-walnut-pistachios-almonds-hazelnuts-c_37139-34.jpg",
+      "price": 27.35,
+      "isFavorite": false
+    },
+    {
+      "id": 8,
+      "title": "Fresh stawberry",
+      "category": "fruit",
+      "description": "Sweet fresh stawberry on the wooden table",
+      "image": "https://www.eatright.org/-/media/eatrightrecipeimages/fresh-strawberry-pie-881906660.jpg",
+      "price": 28.59,
+      "isFavorite": false
+    },
+    {
+      "id": 9,
+      "title": "Lemon and salt",
+      "category": "fruit",
+      "description": "Rosemary, lemon and salt on the table",
+      "image": "https://images.morecustomersapp.com/img/uploads/Sites/69077/ProductImages/130351/5005c42f-a1b9-4d18-94c3-5ab4f160e59a-201905281832241008.jpg",
+      "price": 15.79,
+      "isFavorite": false
+    },
+    {
+      "id": 10,
+      "title": "Homemade bread",
+      "category": "bakery",
+      "description": "Homemade bread",
+      "image": "https://moorlandseater.com/wp-content/uploads/2018/05/no-knead-bread-for-beginners-sliced-on-a-board-moorlands-eater-DSC07055.jpg",
+      "price": 17.48,
+      "isFavorite": false
+    },
+    {
+      "id": 11,
+      "title": "Legums",
+      "category": "vegetable",
+      "description": "Cooked legums on the wooden table",
+      "image": "https://cdn.drweil.com/wp-content/uploads/2016/11/diet-nutrition_anti-inflammatory-diet-pyramid_cooking-with-beans-legumes_1440x1080_000085615479-600x450.jpg",
+      "price": 14.77,
+      "isFavorite": false
+    },
+    {
+      "id": 12,
+      "title": "Fresh tomato",
+      "category": "vegetable",
+      "description": "Fresh tomato juice with basil",
+      "image": "https://i2.wp.com/freshmarket.co.in/wp-content/uploads/2019/10/Tomatoes-500x500.jpg?zoom=2.625&fit=500%2C500&ssl=1",
+      "price": 16.3,
+      "isFavorite": false
+    },
+    {
+      "id": 13,
+      "title": "Healthy breakfast",
+      "category": "fruit",
+      "description": "Healthy breakfast set. rice cereal or porridge with berries and honey over rustic wood background",
+      "image": "https://www.euractiv.com/wp-content/uploads/sites/2/2019/03/shutterstock_245119630.jpg",
+      "price": 13.02,
+      "isFavorite": false
+    },
+    {
+      "id": 14,
+      "title": "Green beans",
+      "category": "vegetable",
+      "description": "Raw organic green beans ready to eat",
+      "image": "https://www.thespruceeats.com/thmb/KSMKdPgT_Wkh8P98Bf6tPlL-iKA=/4048x2696/filters:fill(auto,1)/easy-green-bean-saute-recipe-2394856-hero-5c3e74a3c9e77c00016335f7.jpg",
+      "price": 28.79,
+      "isFavorite": false
+    },
+    {
+      "id": 15,
+      "title": "Baked stuffed portabello mushrooms",
+      "category": "bakery",
+      "description": "Homemade baked stuffed portabello mushrooms with spinach and cheese",
+      "image": "https://www.savorytooth.com/wp-content/uploads/2017/08/stuffed-portobello-mushrooms-1.jpg",
+      "price": 20.31,
+      "isFavorite": false
+    },
+    {
+      "id": 16,
+      "title": "Strawberry jelly",
+      "category": "fruit",
+      "description": "Homemade organic strawberry jelly in a jar",
+      "image": "https://keyassets-p2.timeincuk.net/wp/prod/wp-content/uploads/sites/53/2011/05/Grown-up-strawberry-jelly.jpg",
+      "price": 14.18,
+      "isFavorite": false
+    },
+    {
+      "id": 17,
+      "title": "Pears juice",
+      "category": "fruit",
+      "description": "Fresh pears juice on the wooden table",
+      "image": "https://i2.wp.com/robustrecipes.com/wp-content/uploads/2018/09/pear-green-juice-5.jpg?resize=680%2C901",
+      "price": 19.49,
+      "isFavorite": false
+    },
+    {
+      "id": 18,
+      "title": "Fresh pears",
+      "category": "fruit",
+      "description": "Sweet fresh pears on the wooden table",
+      "image": "https://cdn.shopify.com/s/files/1/0012/2522/8355/products/Fresh_Pear_2048x.jpg?v=1539211741",
+      "price": 15.12,
+      "isFavorite": false
+    },
+    {
+      "id": 19,
+      "title": "Caprese salad",
+      "category": "vegetable",
+      "description": "Homemade healthy caprese salad with tomato mozzarella and basil",
+      "image": "https://cdn.loveandlemons.com/wp-content/uploads/2019/08/caprese-salad-recipe.jpg",
+      "price": 16.76,
+      "isFavorite": false
+    },
+    {
+      "id": 20,
+      "title": "Oranges",
+      "category": "fruit",
+      "description": "Orange popsicle ice cream bars made from fresh oranges.  a refreshing summer treat.",
+      "image": "https://www.abestfashion.com/wp-content/uploads/2019/12/benefits-of-oranges-1296x728-feature.jpg",
+      "price": 21.48,
+      "isFavorite": false
+    },
+    {
+      "id": 21,
+      "title": "Vegan food",
+      "category": "vegetable",
+      "description": "Concept of vegan food",
+      "image": "https://www.bbcgoodfood.com/sites/default/files/recipe-collections/collection-image/2013/05/satay-sweet-potato-curry_1.jpg",
+      "price": 29.66,
+      "isFavorite": false
+    },
+    {
+      "id": 22,
+      "title": "Breakfast with muesli",
+      "category": "dairy",
+      "description": "Concept of healthy breakfast with muesli",
+      "image": "https://www.thehealthymaven.com/wp-content/uploads/2019/08/build-your-own-muesli-8.jpg",
+      "price": 22.7,
+      "isFavorite": false
+    },
+    {
+      "id": 23,
+      "title": "Honey",
+      "category": "bakery",
+      "description": "Honey and honeycell on the table",
+      "image": "https://honey-ukraine.com/sites/default/files/styles/486x414/public/field/image/srok-godnosti-meda-gost.jpg.pagespeed.ce_.y-rdkasasl.jpg?itok=4li3PVbG",
+      "price": 17.01,
+      "isFavorite": false
+    }
+  ]
+}
